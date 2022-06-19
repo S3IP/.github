@@ -8,6 +8,6 @@ leerdoelen van dit semester.
 ## Inhoud
 #### [Portfolio](https://github.com/S3IP/Portfolio/blob/main/Portfolio%20S3.pdf)
 #### [Research Elo](https://github.com/S3IP/Portfolio/blob/main/Research/EloResearch.pdf)
-#### [Research security](https://github.com/S3IP/elementalcombat)
+#### [Research security](https://github.com/S3IP/Portfolio/blob/main/Research/Security%20Research.pdf)
 #### [Frontend](https://github.com/S3IP/elementalcombat)
 #### [Backend](https://github.com/S3IP/MoveService)
