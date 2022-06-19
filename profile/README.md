@@ -6,7 +6,7 @@ In deze oganizatie is alles te vinden waarvan ik dacht dat het nodig was om aan 
 leerdoelen van dit semester.
 
 ## Inhoud
-#### [Portfolio](https://github.com/S3IP/Portfolio)
+#### [Portfolio](https://github.com/S3IP/Portfolio/blob/main/Portfolio%20S3.pdf)
 #### [Research Elo](https://github.com/S3IP/Portfolio/blob/main/Research/EloResearch.pdf)
 #### [Research security](https://github.com/S3IP/elementalcombat)
 #### [Frontend](https://github.com/S3IP/elementalcombat)
