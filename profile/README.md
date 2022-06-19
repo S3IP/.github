@@ -11,4 +11,4 @@ leerdoelen van dit semester.
 #### [Research security](https://github.com/S3IP/Portfolio/blob/main/Research/Security%20Research.pdf)
 #### [Frontend](https://github.com/S3IP/elementalcombat)
 #### [Backend](https://github.com/S3IP/MoveService)
-### [Demo van de web app](https://youtu.be/ctzjlr4cHmM)
+#### [Demo van de web app](https://youtu.be/ctzjlr4cHmM)
