@@ -16,5 +16,5 @@ leerdoelen van dit semester.
 #### [C1 Model](https://github.com/S3IP/Portfolio/blob/main/C%20Models/C1.PNG)
 #### [C2 Model](https://github.com/S3IP/Portfolio/blob/main/C%20Models/C2.PNG)
 
-###Groeps project
+### Groeps project
 #### [Portfolio](https://github.com/S3IP/Portfolio/blob/main/portfolio%20gp.pdf)
