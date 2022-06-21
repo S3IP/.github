@@ -6,6 +6,7 @@ In deze oganizatie is alles te vinden waarvan ik dacht dat het nodig was om aan 
 leerdoelen van dit semester.
 
 ## Inhoud
+### Individueel project
 #### [Portfolio](https://github.com/S3IP/Portfolio/blob/main/Portfolio%20S3.pdf)
 #### [Research Elo](https://github.com/S3IP/Portfolio/blob/main/Research/EloResearch.pdf)
 #### [Research security](https://github.com/S3IP/Portfolio/blob/main/Research/Security%20Research.pdf)
@@ -14,3 +15,6 @@ leerdoelen van dit semester.
 #### [Demo van de web app op Youtube](https://youtu.be/ctzjlr4cHmM)
 #### [C1 Model](https://github.com/S3IP/Portfolio/blob/main/C%20Models/C1.PNG)
 #### [C2 Model](https://github.com/S3IP/Portfolio/blob/main/C%20Models/C2.PNG)
+
+###Groeps project
+#### [Portfolio](https://github.com/S3IP/Portfolio/blob/main/portfolio%20gp.pdf)
