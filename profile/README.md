@@ -13,8 +13,14 @@ leerdoelen van dit semester.
 #### [Frontend](https://github.com/S3IP/elementalcombat)
 #### [Backend](https://github.com/S3IP/MoveService)
 #### [Demo van de web app op Youtube](https://youtu.be/ctzjlr4cHmM)
-#### [C1 Model](https://github.com/S3IP/Portfolio/blob/main/C%20Models/C1.PNG)
-#### [C2 Model](https://github.com/S3IP/Portfolio/blob/main/C%20Models/C2.PNG)
+#### [C1 Model](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Individueel/C1.PNG)
+#### [C2 Model](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Individueel/C2.PNG)
 
 ### Groeps project
 #### [Portfolio](https://github.com/S3IP/Portfolio/blob/main/portfolio%20gp.pdf)
+#### [Business proces](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/GPProcess.png)
+#### [Subproces bestellen](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/bestel%20proces.png)
+#### [Subproces bereiden](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/bereiding%20proces.png)
+#### [Subproces sessie afroneden](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/sessie%20afronden.png)
+#### [Architectuur plaatje](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/Model.png)
+#### [Schermschets](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/schermschets.PNG)
