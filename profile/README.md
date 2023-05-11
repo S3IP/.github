@@ -2,7 +2,7 @@
 Tim Meijvogel s3DB01
 
 
-In deze oganisatie is alles te vinden waarvan ik dacht dat het nodig was om aan te tonen dat ik voldoe aan de
+In deze oganisatie is alles te vinden dat nodig was om aan te tonen dat ik voldoe aan de
 leerdoelen van dit semester.
 
 ## Inhoud
@@ -21,6 +21,6 @@ leerdoelen van dit semester.
 #### [Business proces](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/GPProcess.png)
 #### [Subproces bestellen](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/bestel%20proces.png)
 #### [Subproces bereiden](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/bereiding%20proces.png)
-#### [Subproces sessie afroneden](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/sessie%20afronden.png)
+#### [Subproces sessie afronden](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/sessie%20afronden.png)
 #### [Architectuur plaatje](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/Model.png)
 #### [Schermschets](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/schermschets.PNG)
