@@ -24,3 +24,4 @@ leerdoelen van dit semester.
 #### [Subproces sessie afronden](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/sessie%20afronden.png)
 #### [Architectuur plaatje](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/Model.png)
 #### [Schermschets](https://github.com/S3IP/Portfolio/blob/main/Afbeeldingen/Groep/schermschets.PNG)
+#### [Groep organization](https://github.com/fontys-group3)
